@@ -1,0 +1,4 @@
+﻿order_id,customer_id,product_id,order_date,order_qty,total_price
+201,1,101,01-01-2024,1,1200
+202,2,102,02-01-2024,2,1600
+203,1,103,03-01-2024,3,1500

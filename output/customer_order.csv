@@ -1,0 +1,4 @@
+customer_id,order_id,customer_name,customer_address,product_id,product_name,order_date,order_qty,total_price
+1,201,John Doe,123 Elm Street,101,Laptop,01-01-2024,1,1200
+1,203,John Doe,123 Elm Street,103,Tablet,03-01-2024,3,1500
+2,202,Jane Smith,456 Oak Avenue,102,Smartphone,02-01-2024,2,1600
